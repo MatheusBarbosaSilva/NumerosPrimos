@@ -1,0 +1,8 @@
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\bin\Debug\Numeros Primos.exe.config
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\bin\Debug\Numeros Primos.exe
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\bin\Debug\Numeros Primos.pdb
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.csproj.AssemblyReference.cache
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.csproj.SuggestedBindingRedirects.cache
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.csproj.CoreCompileInputs.cache
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.exe
+E:\Teu\Dev\Desafios Balta\Numeros Primos\Numeros Primos\obj\Debug\Numeros Primos.pdb
